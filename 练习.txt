@@ -1,0 +1,9 @@
+1.git powshell 美化
+https://lewlh.github.io/2025/02/15/RefinePowerShellTerminal/
+
+2.git 命令
+git init 
+git clone "https://github.com/gaogq3/DemoFor3D.git"
+git pull
+git commit -m "content"
+git push
